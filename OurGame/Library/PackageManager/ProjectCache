@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638979798801939303
-    m_Hash: 1634130805
+      ticks: 638979801584674650
+    m_Hash: 310520001
   m_LockFileStatus:
     m_FilePath: C:/Users/mason/OneDrive/Documents/OurGame/mazarill-jedi/OurGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638979798801959297
-    m_Hash: 584092626
+      ticks: 638979801584684659
+    m_Hash: 1339654624
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
