@@ -1,4 +1,0 @@
-repository "OurGame/mazarill-jedi@2473934809007@cloud"
-  path "/"
-    br "/main"
-    co "/main"
